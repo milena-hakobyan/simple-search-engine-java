@@ -1,3 +1,3 @@
-Click here to view the project on Hyperskill.
+This is a project completed as part of the Hyperskill platform,
 
-This is the project pagem on the platform: https://hyperskill.org/projects/89
+This is the project page on the platform: https://hyperskill.org/projects/89
